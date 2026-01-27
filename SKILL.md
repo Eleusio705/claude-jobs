@@ -105,6 +105,7 @@ allowed-tools: WebFetch
 | vanta | https://jobs.ashbyhq.com/vanta |
 | vercel | https://boards-api.greenhouse.io/v1/boards/vercel/jobs?content=true |
 | veriff | https://boards-api.greenhouse.io/v1/boards/veriff/jobs?content=true |
+| wave | https://boards-api.greenhouse.io/v1/boards/wavemm1/jobs?content=true |
 | waymo | https://boards-api.greenhouse.io/v1/boards/waymo/jobs?content=true |
 | webflow | https://boards-api.greenhouse.io/v1/boards/webflow/jobs?content=true |
 | yext | https://boards-api.greenhouse.io/v1/boards/yext/jobs?content=true |
