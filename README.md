@@ -56,9 +56,9 @@ intern roles at coinbase
 - [Apply](https://jobs.ashbyhq.com/sentry/2f48f301-c17e-4b07-931b-4574695b8188)
 ```
 
-## Supported Companies
+## Supported Companies (100)
 
-Airbnb, Anthropic, Cloudflare, Coinbase, Datadog, Discord, Dropbox, Figma, GitLab, Instacart, Linear, Lyft, Netlify, Notion, RevenueCat, Sentry, Stripe, Vercel
+Affirm, Airbnb, Airtable, Algolia, Amplitude, Anthropic, Anyscale, AppLovin, Asana, Axiom, Benchling, Block, Brex, Calendly, Carta, Chime, CircleCI, Cloudflare, CockroachLabs, Cohere, Coinbase, Contentful, Coursera, Databricks, Datadog, Deel, Descript, Discord, Dollar Shave Club, Dropbox, Duolingo, Elastic, Faire, Fastly, Fetch, Figma, Fivetran, Flexport, GitLab, Grammarly, Gusto, Hightouch, Instacart, Intercom, Labelbox, Lattice, LaunchDarkly, Linear, LivePerson, Lucid Motors, Lyft, Marqeta, Mercury, Mixpanel, MongoDB, Moveworks, Netlify, Nextdoor, Notion, Nuro, Okta, OpenAI, PagerDuty, Palantir, Peloton, Pendo, Perplexity, Pinterest, Plaid, Postman, Ramp, Reddit, Retool, RevenueCat, Robinhood, Salesloft, Samsara, Scale AI, SeatGeek, Sendbird, Sentry, SoFi, Spotify, Squarespace, Stripe, Tailscale, TaskRabbit, Thumbtack, Toast, Twilio, Twitch, Udemy, Vanta, Vercel, Veriff, Waymo, Webflow, Yext, ZipRecruiter, Zscaler
 
 **Want to add your company?** [See how](CONTRIBUTING.md)
 
