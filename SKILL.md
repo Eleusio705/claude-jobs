@@ -20,10 +20,10 @@ allowed-tools: WebFetch
 | figma | https://boards-api.greenhouse.io/v1/boards/figma/jobs |
 | gitlab | https://boards-api.greenhouse.io/v1/boards/gitlab/jobs |
 | instacart | https://boards-api.greenhouse.io/v1/boards/instacart/jobs |
-| linear | https://api.ashbyhq.com/posting-api/job-board/linear |
+| linear | https://jobs.ashbyhq.com/linear |
 | lyft | https://boards-api.greenhouse.io/v1/boards/lyft/jobs |
 | netlify | https://boards-api.greenhouse.io/v1/boards/netlify/jobs |
-| notion | https://api.ashbyhq.com/posting-api/job-board/notion |
+| notion | https://jobs.ashbyhq.com/notion |
 | revenuecat | https://jobs.ashbyhq.com/revenuecat |
 | sentry | https://sentry.io/jobs/list.json |
 | stripe | https://boards-api.greenhouse.io/v1/boards/stripe/jobs |
@@ -40,7 +40,7 @@ User query: $ARGUMENTS
 ### For company-specific queries:
 1. Find company in table above (case-insensitive)
 2. If not found: list available companies, link to GitHub to add more
-3. WebFetch the endpoint with prompt: "List all jobs with title, location, department, salary if available, and apply URL (from absolute_url field for JSON or href for HTML)"
+3. WebFetch the endpoint with prompt: "List all jobs with: Title, Location, Department, Salary (if available), and the unique Apply URL for each specific job posting (use absolute_url field for JSON APIs, or extract the individual job href link for HTML pages - each job should have its own unique URL)"
 4. Display results grouped by department
 5. Support filters: location, department, keywords (e.g., "engineering jobs in SF")
 6. Always include an [Apply](url) hyperlink for each job using the absolute_url field
